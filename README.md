@@ -68,9 +68,11 @@ const navigateToDetails = (item) => {
   });
 };
 
-![FrontEnd Images](./assets/readmeimage/readme1.png)
-![FrontEnd Images](./assets/readmeimage/readme2.png)
-![FrontEnd Images](./assets/readmeimage/readme5.png)
+
+<img src="./assets/readmeimage/readme1.png" alt="frontendimg" height="800" width="400"/>
+<img src="./assets/readmeimage/readme2.png" alt="frontendimg" height="800" width="400"/>
+<img src="./assets/readmeimage/readme5.png" alt="frontendimg" height="800" width="400"/>
+
 
 FlatList vs. Map for List Rendering
 
