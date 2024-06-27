@@ -20,12 +20,10 @@ Key Features
 Using expo-av for Audio Playback
 The expo-av library provides an easy-to-use API for audio playback. Here's a snippet on how to use it to load and play a song:
 
-
-![FrontEnd Images](./assets/readmeimage/readme9.png)
-![FrontEnd Images](./assets/readmeimage/readme6.png)
-![comment Section](./assets/readmeimage/readme3.png)
-![FrontEnd Images](./assets/readmeimage/readme4.png)
-
+<img src="./assets/readmeimage/readme9.png" alt="frontendimg" height="800" width="400"/>
+<img src="./assets/readmeimage/readme3.png" alt="frontendimg" height="800" width="400"/>
+<img src="./assets/readmeimage/readme4.png" alt="frontendimg" height="800" width="400"/>
+<img src="./assets/readmeimage/readme6.png" alt="frontendimg" height="800" width="400"/>
 
 
 import { Audio } from "expo-av";
